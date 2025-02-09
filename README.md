@@ -1,6 +1,3 @@
-# blockchain
-My own take on the implementation of a simple blockchain
-
 # ⛓️ Build a Blockchain in Python  
 
 This project is based on the article **["Learn Blockchains by Building One"](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)** by Daniel van Flymen. It walks through creating a simple blockchain using Python.  
