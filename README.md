@@ -16,5 +16,5 @@ Ensure you have **Python 3.x** installed on your system.
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/blockchain-python.git
-cd blockchain-python
+git clone https://github.com/justinjsd/blockchain.git
+cd blockchain
